@@ -1,7 +1,7 @@
 variable "application_name" {
   type        = string
   description = "The name of your application"
-  default     = "demo-docker"
+  default     = "nubesmaneu-nubesgen-dockertest"
 }
 
 variable "environment" {
